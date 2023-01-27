@@ -34,6 +34,6 @@ Please note that this is a high-level categorization and some steps may overlap 
 
 Here is a screenshot of the category breakdown as provided by ChatGPT:
 
-<img src="images/conceptualization_categories.png" width="400" height="300">
-
-![Category breakdown](images/conceptualization_categories.png)
+<p align="center">
+  <img src="images/conceptualization_categories.png" width="500" alt="Categories for Startups Conceptualization">
+</p>
